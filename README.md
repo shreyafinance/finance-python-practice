@@ -16,3 +16,17 @@ This repository contains beginner Python scripts applied to finance, compliance,
 ## About Me
 Admin & Support Executive at SEBI, learning Python to apply in BFSI/regulatory domains.  
 Currently pursuing NMIMS Online MBA in Finance.
+---
+
+## Example Output
+Here’s a sample output from the `report_card_printer.py` script:
+
+![Report Card Output](screenshots/report_card_output.png.png)
+
+---
+
+## How to Run
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/shreyafinance/finance-python-practice-.git
+
